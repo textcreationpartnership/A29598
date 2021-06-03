@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Britania nova illustrata being a modest and reasonable defence of a late book entituled Britania nova, or, A seasonable discourse, demonstrating how we may serve our King and country by discouraging prophaness and immorality &amp;c. ...</title>
+         </titleStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 14 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29598</idno><idno type="EEBO-CITATION">8092372</idno>
+  <idno type="VID">40822</idno>
+  <idno type="EEBO-PROQUEST">2264208542</idno>
+  
+            <idno type="STC">Wing B4815</idno>
+            <idno type="STC">ESTC R24237</idno>
+            <idno type="OCLC">08092372</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A29598)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40822)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1224:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Britania nova illustrata being a modest and reasonable defence of a late book entituled Britania nova, or, A seasonable discourse, demonstrating how we may serve our King and country by discouraging prophaness and immorality &amp;c. ...</title>
+               </titleStmt>
+               <extent>24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Whitlock,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Trinity College Library, Cambridge University.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40822:1"/>
+            <pb facs="tcp:40822:1"/>
+            <p>
+               <hi>Britania Nova Illustrata</hi> BEING A MODEST and REASONABLE Defence of a Late BOOK ENTITULED, <hi>BRITANIA NOVA;</hi> OR, A Seasonable Discourse, De<g ref="char:EOLhyphen"/>monstrating, How we may Serve our <hi>King</hi> and <hi>Country.</hi> By Discouraging <hi>Prophaness</hi> and <hi>Immorality,</hi> &amp;c.</p>
+            <p>Most Humbly Offer'd to the King's Most Excellent Majesty, To His High Court of Par<g ref="char:EOLhyphen"/>liament, and to the Whole Nation, <hi>&amp;c.</hi>
+            </p>
+            <p>It being Underiably made out in the first Book, (tho' Misapprehended, or not Understood, by some) that we may Double the Value of out Land, and the Number of our Naval Forces to every Man's Advantage, and to the Advance<g ref="char:EOLhyphen"/>ment of <hi>The Christian World.</hi>
+            </p>
+            <p>
+               <hi>Defer not to be Iustified.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Whitlock,</hi> near <hi>Statio<g ref="char:EOLhyphen"/>ners</hi>-Hall. 1698.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:40822:2"/>
+            <pb n="3" facs="tcp:40822:2"/>
+            <head>Britainia Nova Illustrata.</head>
+            <p>I Have been lately Informed, that the Pre<g ref="char:EOLhyphen"/>tentions of some have found out a great many Faults in <hi>Britania Nova,</hi> besides those many, that (for want of more time and care) were committed by the <hi>Printers</hi> and the <hi>Cor<g ref="char:EOLhyphen"/>rectors.</hi>
+            </p>
+            <div n="1" type="fault">
+               <head>I.</head>
+               <p>The <hi>First</hi> fault they find is in the title, be<g ref="char:EOLhyphen"/>cause <hi>Britania</hi> is not with a double <hi>n.</hi> But I have shown, in the Book it self, that if <hi>Ania,</hi> (according to the best Authorities) came from <hi>Anac,</hi> which signifies <hi>Tin</hi> in the Language of the <hi>Phaenicians,</hi> who first found it out in <hi>Corn<g ref="char:EOLhyphen"/>wall</hi> (<hi>The Head-Land,</hi> or <hi>Cape of the Kingdom</hi>) though now it is called, <hi>The Lands End; Now the Taile which was once the Head.</hi> And if <hi>Brit</hi> came from <hi>Bright, G. H.</hi> being left out in the Name, as not Sounding in the Pronounciation, then it must be <hi>Britania,</hi> according to this New, and not <hi>Britannia,</hi> according to the Old way of Writing.</p>
+            </div>
+            <div n="2" type="fault">
+               <head>II.</head>
+               <p>A <hi>Second</hi> Fault (which is the First they find in the Book it self) is this, <hi>That it is
+<pb n="4" facs="tcp:40822:3"/>Founded</hi>
+                  <note n="†" place="bottom">Queen <hi>Elizabeth</hi> Founded the Second Reformation on the Two Grand Committees in Parliament of <hi>Religion</hi> and <hi>Justice;</hi> then <hi>Religion</hi> and <hi>Justice</hi> were look'd upon as the Two Principal Points of the Nations Policy.</note>
+                  <hi>on Religion, and The Word of God. And what</hi> (say they) <hi>hath Religion, and The Word of God</hi> to do with <hi>The Politicks, or the Common-wealth?</hi>
+               </p>
+               <p>Yet I had shown (in sundry places of the Book, and particularly from <hi>The Politicks of</hi> Learned <hi>France,</hi> and from <hi>Cambden</hi>'s<note n="*" place="bottom">In his Life of Queen <hi>Elizabeth.</hi>
+                  </note> own Wonds that <hi>Between Religion and the Common<g ref="char:EOLhyphen"/>wealth there can be no Separation.</hi>
+               </p>
+               <p>The <hi>Very God of very God</hi> came into the World to Teach us, <hi>First, The Kingdom,</hi> of <hi>God and his Righteousness,</hi> that <hi>Pure Religion and Ʋndefiled Justice,</hi> whereunto all other things shall be ad<g ref="char:EOLhyphen"/>ded, according to the Word of God.</p>
+               <p>So that those Men are against <hi>God, The King, and The Country,</hi> who say, <hi>That Religion and the Word of God have nothing to do with the Poli<g ref="char:EOLhyphen"/>ticks and the Common-wealth.</hi>
+               </p>
+               <p>Our Saviour himself laid <hi>Religion</hi> and <hi>Justice</hi> For the Foundation of <hi>The Christian Empire,</hi> The King's most Excellent Majesty <hi>(in the fullness of time)</hi> came into <hi>Great Britain, Hazarding every thing, to Rescue our Religion;</hi> And as <hi>God</hi> and the <hi>King</hi> preferred <hi>Religion,</hi> so the Honou<g ref="char:EOLhyphen"/>rable
+<pb n="5" facs="tcp:40822:3"/>Representatives of <hi>This Great Land and Nation,</hi> are principally Founded, in <hi>The most High Court of Parliament,</hi> on <hi>The Grand Com<g ref="char:EOLhyphen"/>mittee of Religion.</hi>
+               </p>
+               <p>Besides, the Four past Empires were Found<g ref="char:EOLhyphen"/>ed on the <hi>Religion</hi> of their first Authors, and to pretend <hi>To Erect a New Britania,</hi> and thereon to raise <hi>The Fifth Monarchy, or Christian Empire,</hi> without <hi>Religion and the word of God,</hi> would be to one part of the World <hi>A Stumbling Block,</hi> and to another <hi>Foolishnes.</hi>
+               </p>
+            </div>
+            <div n="3" type="fault">
+               <head>III.</head>
+               <p>
+                  <hi>Third</hi> Fault, which they find, is with my Quotation of so much Scripture, and so many other Authorities already Printed.</p>
+               <p>To which I Answer, That I have made a sufficient Apology, for that in my Preface, to <hi>Britania Nova.</hi> And (not to mention our Ministers Quotations of the Holy Scriptures, and other Authorities, though they were al<g ref="char:EOLhyphen"/>ready Printed.) <hi>The New Testament of God's Will,</hi> doth tell us, That <hi>we have Moses</hi> and <hi>the Prophets,</hi> and my Adversaris may see (if they please) therein, who Quoted both, upon all Occasions, though they were Written, and Quoted before their Time.</p>
+            </div>
+            <div n="4" type="fault">
+               <pb n="6" facs="tcp:40822:4"/>
+               <head>IV.</head>
+               <p>A <hi>Fourth</hi> Fault which they find in the Book, is my making too much use of the Word of God <hi>&amp;c.</hi> to speak too much thereby in Com<g ref="char:EOLhyphen"/>mendation of the King.</p>
+               <p>To which I likewise Answer, That the King's Majesty, is most Heroick, most Imperi<g ref="char:EOLhyphen"/>al, and most Excellent; Both his Words and Actions are above any Character which I can give of them; I chose therefore to do it, by the Word of God, and of some Great Men. And (not to mention others) I verily be<g ref="char:EOLhyphen"/>lieved when I Wrote <hi>Britania Nova,</hi> Pa. 14. that the words of the Wise Son of <hi>Syrach</hi> came nearest home to the Present King of <hi>This Great Land and Nation, The Emporium of the World,</hi> The words are these.</p>
+               <p>Wisd. 8. <hi>I shall set the People in order, and the Nations shall be subject unto me.</hi>
+               </p>
+               <p>
+                  <hi>Horrible Tyrants shall be afraid when they do but hear of me.</hi>
+               </p>
+               <p>
+                  <hi>I shall be found good amongst the Multitude and valiant in War.</hi>
+               </p>
+               <p>I did also, and do still believe, That <hi>He shall never be moved,</hi> Vid. pa. 15. and that, <hi>His Righteousness shall be had in Everlasting Re<g ref="char:EOLhyphen"/>membrance.</hi>
+               </p>
+               <pb n="7" facs="tcp:40822:4"/>
+               <p> And as <hi>The ungodly shall see it, and shall Gnash with his Teeth,</hi> so they that lash with their Tongue, as some now do, may live to see him, <hi>Judge the folk Righteously and Govern the Nations upon Earth.</hi>
+               </p>
+               <p>
+                  <hi>Psal.</hi> 11. But, <hi>If the foundations be destroyed, what can the Righteous do?</hi>
+               </p>
+               <p>I do likewise verily believe that as the Ruin of many places, hath been Respited for one reason and another, so the time for raising this Nation might be shortned, if <hi>All things</hi> (ac<g ref="char:EOLhyphen"/>cording to the Prayer of the Church) could now be <hi>ordered and settled on the best and surest foundation, for Peace, and Happiness, Truth and Justice, Religion, and Piety,</hi> and <hi>for Discourageing <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rophaness and Immorallity.</hi>
+               </p>
+               <p>But there is one thing Necessary (not here to be mention'd) which must be done before all things can be so <hi>Ordered and Settled,</hi> and be<g ref="char:EOLhyphen"/>fore it can come to pass, That, <hi>In his dayes, Judah shall be saved, and Israel shall dwell in safety.</hi>
+               </p>
+               <p>But then, <hi>They shall no more say, the Lord Li<g ref="char:EOLhyphen"/>veth that brought up the Children of Israel out of</hi> Aegypt.</p>
+               <p>
+                  <hi>But the Lord liveth, which brought up, and led the House of Israel out of the North Countrey, and from all Countrys where I had scatter'd them, and they shall dwell in their own Land.</hi>
+               </p>
+               <pb n="8" facs="tcp:40822:5"/>
+               <p>
+                  <hi>For <gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> spoyled of the Hea<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> safely, and none shall make them <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>: <gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> is a Righteous Branch.</hi>
+               </p>
+            </div>
+            <div n="5" type="fault">
+               <head>V,</head>
+               <p>The <hi>Fifth</hi> Fault, which my Enemies find in <gap reason="illegible: blotted" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>s, <hi>That it hath not at all an<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible: blotted" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> of the Title Page.</hi>
+               </p>
+               <p>To which I answer again, and for all, That <hi>All Books have their fate, according to the Capa<g ref="char:EOLhyphen"/>city or Prejudice of the Readers;</hi> And if they please to <hi>Search</hi> Mine (I call it <hi>Search,</hi> because I could not Compose it more Regularly, consi<g ref="char:EOLhyphen"/>dering all things) they will find, that it will Answer the <hi>Title Page</hi> to all Intents and Purpo<g ref="char:EOLhyphen"/>ses, if the People will (as they now may) put it into Practice.</p>
+               <p>I have shown plainly, That the best ways and means, <hi>To preavent Blasphemy, To discourage Prophaness and Immorality,</hi> and to keep the Peo<g ref="char:EOLhyphen"/>ple from <hi>Cursing and Swearing,</hi> and from <hi>Damn<g ref="char:EOLhyphen"/>ing</hi> one another, is to Reform the Nation a Third time, by Regulating (in the first Place) <hi>The Commutitive and Distributative Justice</hi> thereof,<note n="*" place="bottom">See that part of the Book, which is for sending a sufficient Fleet into the <hi>Mediterranean,</hi> to Protect the Oppressed <hi>Greeks</hi> from the Tyranny of the <hi>Turks,</hi> &amp;c.</note> that our <hi>Saducees</hi> may no longer de<g ref="char:EOLhyphen"/>ny
+<pb n="9" facs="tcp:40822:5"/>the Resurrection, and that others may no longer be said, <hi>Neither to Reverence God, nor Regard Man.</hi>
+               </p>
+               <p>Without these Ways and Means, <hi>That Great Land and Nation of the North,</hi> cannot be <hi>The Holy Place,</hi> which is to be <hi>The Destruction of Ba<g ref="char:EOLhyphen"/>bylon,</hi> because the <hi>Quirks</hi> and <hi>Delays</hi> in <hi>Commu<g ref="char:EOLhyphen"/>titive and Distributive Justice,</hi> are altogether as Anti-Christian, as any thing that can be practi<g ref="char:EOLhyphen"/>ced by the <hi>Pope</hi> of <hi>Rome,</hi> or any of his <hi>Condis<g ref="char:EOLhyphen"/>ciples,</hi> against that Perfect <hi>Religion and Law,</hi> which our Lord and Saviour Taught us, as the <hi>best and surest ways and means,</hi> to prevent to re<g ref="char:EOLhyphen"/>medy <hi>Prophaness and Immorality.</hi>
+               </p>
+               <p>I have also plainly shown, how we may pre<g ref="char:EOLhyphen"/>vent <hi>a great deal of Robery, Injustice and Oppressi<g ref="char:EOLhyphen"/>on,</hi> not only in <hi>England,</hi> and our own <hi>Isles,</hi> but in the <hi>Isles</hi> of the <hi>Mediterranian,</hi> in all <hi>The Mari<g ref="char:EOLhyphen"/>tine Places,</hi> and in all the <hi>Isles of the Gentiles,</hi> &amp;c. by ways and means mention'd at Large in <hi>Bri<g ref="char:EOLhyphen"/>tania Nova,</hi> and particularly by the Amphibe<g ref="char:EOLhyphen"/>ous Fleet that may serve this nation, and the Whole World, by Sayling to and fro, both as Men of War and Merchantmen in the <hi>British</hi>-Sea, the <hi>Medeterranian,</hi> and the Sea of <hi>Jamaica;</hi> And there cannot be better means of making this Nation Greater then its Name, then by preventing thereby the Exportation of Wool and Fullers Earth, by those Ways and Means
+<pb n="10" facs="tcp:40822:6"/>mention'd at Large in that Book, whereof this is but an <hi>Abstract.</hi>
+               </p>
+               <p>I have also shown at Large in that Book, how we may <hi>Relieve and Imploy the Disbanded Souldiers,</hi> by Maintaining the one part of them at Sea, and setting the other A work at Land, where they may <hi>Beat up their Swords into Plow<g ref="char:EOLhyphen"/>shares, and their Spears into Pruning-Hooks,</hi> upon Doubling the Wages of the Poor, and the Price of Corn, <hi>&amp;c.</hi> And both these ways, of Re<g ref="char:EOLhyphen"/>lieving and Imploying those Souldiers, will, (in one particular) prevent a great deal of <hi>Pro<g ref="char:EOLhyphen"/>phaness, Immorality, Robery, Injustice, and Oppres<g ref="char:EOLhyphen"/>sion.</hi>
+               </p>
+               <p>I have likewise shown at Large, how we may supply <hi>The Deficiency of the Fonds,</hi> by ma<g ref="char:EOLhyphen"/>king a Law to proportion the Allowance and Wages of the Poor, with the high Prices of Bread and Flesh, which will be a Prodigious ad<g ref="char:EOLhyphen"/>vantantage to the Landed Men<note n="†" place="bottom">And because the Landed-Men will bear the Burthen of the Land-Tax, and because the Farmers will otherwise have the greater Advantage, as they lately have had upon the Low Value of Land, the high Value of its Products, and the High Price of <hi>Guineas,</hi> it is necessary (upon Doubling the Land-Tax) a Law be also made, That all Farmers shall pay Double the Value to the Landlords, for the Estates they have, and shall hold of them, after the said Law be made, although they have had Leases already Grantell for any Term of years to come.</note>, whose In<g ref="char:EOLhyphen"/>terest will Increase thereby, as Interest upon
+<pb n="11" facs="tcp:40822:6"/>Interest doth; And therefore our Representa<g ref="char:EOLhyphen"/>tives may the rather Double the Land-Tax to Discard all the Fonds, that are Deficient, and thereby the better to enable the King's most Excellent Majesty and Themselves, To pre<g ref="char:EOLhyphen"/>vent a great deal of <hi>Prophaness, Immorality Robery, Injustice, and Oppression. To supply the Deficiency of the Fonds, and to Discharge the Na<g ref="char:EOLhyphen"/>tions Debts.</hi>
+               </p>
+               <p>I have likewise show'n at large, how we may <hi>Ease and Advantage the Poor,</hi> by propor<g ref="char:EOLhyphen"/>tioning their allowance and the Wages of the Labourer, with the prices of things, as they may be raised higher and higher to the Benefit and Advantage of <hi>This Great Land and Na<g ref="char:EOLhyphen"/>tion,</hi> and to the Advancement of <hi>The Christian World.</hi>
+               </p>
+               <p>Now as <hi>The Christian Empire</hi> may be very near coming in, as <hi>The Roman Empire</hi> may be very near quite going out (accoding to what I have written in <hi>Britania Nova,</hi> of the past State and present Condition of the <hi>Venetians,</hi> who value themselves for being the only Re<g ref="char:EOLhyphen"/>licts of <hi>The Roman Empire</hi>) so, in order to In<g ref="char:EOLhyphen"/>troduce so great a Revolution, We may, at once, and that very Speedily, raise the Right Regular Interest of the Poor, the Rich, and <hi>The most Renowned Emperor,</hi> only by Adhear<g ref="char:EOLhyphen"/>ing to <hi>Moses and the Irophets,</hi> and by following the Precepts of <hi>The Old and New Testament,</hi> what<g ref="char:EOLhyphen"/>ever
+<pb n="12" facs="tcp:40822:7"/>
+                  <hi>Prophaness</hi> or <hi>Immorality</hi> may think of ei<g ref="char:EOLhyphen"/>ther.</p>
+               <p>When <hi>Moses</hi> was Conducting the Children of <hi>Israel</hi> into <hi>The Land of Canaan,</hi> which was (as it were) a Type of <hi>This Great Land and Nation,</hi> and of <hi>The Christian Empire,</hi> he said un<g ref="char:EOLhyphen"/>to every one of them.</p>
+               <p>
+                  <hi>The Lord shall greatly bless thee in the Land which the Lord thy God Giveth thee for an Inheritance to possess it.</hi>
+               </p>
+               <p>
+                  <hi>Thou shalt Keign over many Nations, but they shall not Reign over thee.</hi>
+               </p>
+               <p>
+                  <hi>Only if thou carefully hearken unto the voice of the Lord thy God, to observe to do all these Command<g ref="char:EOLhyphen"/>ments which I command thee this day.</hi>
+               </p>
+               <p>* <hi>Ye shall not Swear by my Name falsely, neither shalt thou Prophane the Name of thy God, I am the Lord.</hi>
+               </p>
+               <p>
+                  <hi>Ye shall not Steal, neither deal falsely, neither lye one to another.</hi>
+               </p>
+               <p>
+                  <hi>Thou shalt not defraud thy Neighbour, nor rob him. The Wages of him that is hired shall not a<g ref="char:EOLhyphen"/>bide with thee, I am the Lord.</hi>
+                  <note n="†" place="bottom">Lev. 19. <hi>Note here, That after</hi> Moses (<hi>who</hi> was amongst the Righteous as King) <hi>had Preferred</hi> Religion <hi>(us a true Po<g ref="char:EOLhyphen"/>litician ought to do) he Prescribeth</hi> Commutative and Distribu<g ref="char:EOLhyphen"/>tative Justice.</note>
+               </p>
+               <pb n="13" facs="tcp:40822:7"/>
+               <p>
+                  <note n="*" place="bottom">If these things had been more Minded since the Second Reforma<g ref="char:EOLhyphen"/>tion, we should not have so Great Occasion for a Thid.</note>
+                  <hi>Ye shall do no Ʋnrighteousness in Judge<g ref="char:EOLhyphen"/>ment, in Mete-yard, in Weight, or in Measure.</hi>
+               </p>
+               <p>
+                  <hi>Just Ballanhces, Just Weights, a Just Ephah, and a Just Hin shall ye have, I am the Lord your God which brought you out of the Land of Aegypt,</hi> &amp;c.</p>
+               <p>And God will most certainly make <hi>This Great Land to flow</hi> (as it were) <hi>with Milk and Honey,</hi> if we observe these things, <hi>so as to do them</hi>
+                  <note n="†" place="bottom">And nothing can make us do them better, than Four Grand Committees in the Honourable House of Commons of Religion, <hi>&amp;c.</hi>
+                  </note>.</p>
+               <p>Whatever the Atheist may say, and the Hypocrite think and do, <hi>Keligion</hi> and <hi>Justice</hi> (and without the latter the former cannot be pretended to) are the two principal Supporters of Church and State; and without a perfect Reformation of both, we cannot so much as think, of Regulating <hi>Prophaness and Immorallity,</hi> nor of Raising <hi>This Great Land and Nation</hi> to be, (according to its Natural Scituation) the Seat of <hi>The Ʋniversal Empire.</hi>
+               </p>
+               <p>Now <hi>Charity</hi> and <hi>Justice</hi> in the Original are all one according to the Hebrew word <hi>Tsedaka;</hi> and as St. <hi>Paul</hi> tells us, that <hi>Charity worketh all things.</hi> So if we proportion the Allowance and the VVages of the Poor, with the rising
+<pb n="14" facs="tcp:40822:8"/>Prices of every thing, we may raise this Na<g ref="char:EOLhyphen"/>tion, by that means, to that degree of Honour and Glory, for whigh God and Nature hath most Certainly designed it.</p>
+               <p>It is be asked here, How we shall all live if we raise things higher, when some of us can<g ref="char:EOLhyphen"/>not live because some things are raised so high already.</p>
+               <p>I Anser. That the reason why we have so many Poor amongst us, and why we are not all so Rich as to want Nothing, is because we do not Naturally proportion the Allow<g ref="char:EOLhyphen"/>ance and VVages of every Poor Person, with the Price and Natural Value of every thing, and the Value and Price of every thing, with the Wages and Allowance of every Poor Person.</p>
+               <p>
+                  <hi>We must all answer for things done in the Body Politick, as well as in the Body Natural,</hi> as I shewed in <hi>Britania NOva.</hi> And if we will really and truly <hi>Discourage Prophaness and Im<g ref="char:EOLhyphen"/>morallity, prevent a great deal of Robery, Injustice and Oppression; Relieve and Imploy the Disbanded Soldiers, Supply the Deficiency of the Fonds, Dis<g ref="char:EOLhyphen"/>charge the Nations Debts, Ease and Advantage the Poor, Double the Value and Rents of Land, Double the number of our Seamen and Naval Forces, Promote the Christian Monarchy by the English Empire of the Ocean, and bring on The Golden Age,</hi> we must follow the divine Example of St.
+<pb n="15" facs="tcp:40822:8"/>
+                  <hi>Pual,</hi> who, (Writting to the <hi>Corinthians</hi>) <hi>Temper'd</hi> his Body Politick as God <hi>Temper'd</hi> the Body Natural, <hi>That there might be no Schism in it;</hi> and when another Body Politick shall be so <hi>Temper'd</hi> I cannot yet see how we can fail of Promoting <hi>The Christian Monarchy by the English Empire of the Ocean,</hi> and of Bringing on <hi>The Golden Age.</hi>
+               </p>
+               <p>We must now by all the best and surest Ways and Means endeavour to serve our God, our King and our Country, not by pretending to discourage <hi>Prophaness and Immorallity,</hi> and by raising Fonds that are Deficient, but by serving them in reallity, as <hi>Cyrus</hi> was served upon the raising of <hi>The Persian Empire, with Silver and with Gold and with Substance,</hi> &amp;c.</p>
+               <p>And as we must serve our Prince, <hi>with Sub<g ref="char:EOLhyphen"/>stance and in Reality,</hi> we must, in order there<g ref="char:EOLhyphen"/>unto, and in the first place, serve the Poor as aforesaid, by proportioning their Allowance and Wages with the high Prices of every thing, and by proportioning the Price of every one thing with the Price of the other, without which we cannot forme <hi>The Body Politick</hi> (as God hath framed <hi>The Body Natural,</hi>) to that perfection, which will make good the Title Page of <hi>Britania Nova.</hi>
+               </p>
+               <p>I have shown at large throughout <hi>Britania Nova</hi> (and for this it is necessary to <hi>Search</hi>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:40822:9"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="15" facs="tcp:40822:9"/>
+                  <pb n="16" facs="tcp:40822:10"/>the whole Book) that we cannot discourage Navigation and Trade, by raising the Price of things, on <hi>The Emportium of the World;</hi> for all Markets are Naturaly Govern'd by the first Market Price; and as all other Nations will follow the Example of their <hi>Emporie,</hi> when it comes to stand in Effect to the World, as the Roman Goddess stood in the Figure, with the Ballance in one hand, and the Horn of Plenty in the other, so<note n="*" place="bottom">It is the Customary Trade of Merchants, to Buy <hi>Cheap,</hi> and Sell <hi>Dear;</hi> but it is the Truest Policy, and most for the <hi>Publick Good,</hi> that they should Buy <hi>Dear,</hi> and Sell <hi>so too.</hi> And the Dearer all things are, the more Provident the Richer sort of People will be for their own Benefit, or the more Extravagant to the Nations Ad<g ref="char:EOLhyphen"/>vantage.</note> the dearer all Merchants Buy, the dearer they will Sell again; and what a vast advantage our Amphibeous Fleet aforesaid, will be to this Nation, may be seen to the full in that Book, whereunto I have referred the Reader.</p>
+               <p>All that can be said now is this, That we shall not be able to Proportion the VVages of the Poor Labourers with the Prices of every thing, because some Labourers deserve more, and some less</p>
+               <p>To which I Answer, That we must Pro<g ref="char:EOLhyphen"/>portion the VVages of the Labourers, as we Proportion the Allowance of the Poor, that is to say, they must share all alike; As he that
+<pb n="17" facs="tcp:40822:10"/>Laboured but one hour, had altogether as much VVages, as he that bore the Burthen and Hear of the Day, or otherwise, <hi>Religion and Ju<g ref="char:EOLhyphen"/>stice,</hi> according to our Saviour, and <hi>Charity,</hi> according to St. <hi>Paul,</hi> cannot work all things for us.</p>
+               <p>
+                  <hi>Moses.</hi> Commanding the Children of <hi>Israel</hi> aforesaid in order to bring them to <hi>Empire,</hi> said unto them all, Lev. 19. <hi>Thou shalt not Curse the Deaf, nor put a Stumbling-block before the Blind, but shalt fear thy God, I am the Lord.</hi>
+               </p>
+               <p>And whereas it is common for a Landlord (in some Cases that I know) to hire an Old Labourer, for half VVages, and, upon the whole, to receive his full share of Gain, be<g ref="char:EOLhyphen"/>cause the rest of the Labourers make good the VVork; so, if we will make good that work which we now may go upon, to Advance <hi>The Christian World</hi> withall, we must, by the way, take due Notice, and make due Application of what our Saviour saith, <hi>The Poor you have al<g ref="char:EOLhyphen"/>wayes with you, and when-soever you will you may do them good.</hi>
+               </p>
+               <p>And they, who will not, when they can, do this Good for the poorest sort of Labourers, are Good neither to God, their King, their Coun<g ref="char:EOLhyphen"/>try, nor Themselves; And it would be Just with God to deal with them, as he did with <hi>A<g ref="char:EOLhyphen"/>nanias</hi> and <hi>Saphira,</hi> for their Hypocritical <hi>Iro<g ref="char:EOLhyphen"/>phaness</hi> and <hi>Immorality</hi> before God, in pretend<g ref="char:EOLhyphen"/>ing
+<pb n="18" facs="tcp:40822:11"/>publickly to give that to the <hi>Poor,</hi> which they Secretly reserved for <hi>Themselves.</hi>
+               </p>
+               <p>
+                  <hi>He that giveth unto the Poor, lendeth unto that Lord</hi> who hath <hi>Exalted</hi> our King, <hi>as a Palm-Tree in Engeddi, and as a Rose in Jenicho—Of whom the Earth Travelled: and brought forth a Man-To plant the Tabernacles of his Pallace be<g ref="char:EOLhyphen"/>tween the Seas, in the Glorious Holy Mountain—That he may be more Precious than Fine Gold, e<g ref="char:EOLhyphen"/>ven above the Wedge of Gold of Ophir.</hi>
+               </p>
+               <p>And nothing can be more Precious to God and his Country, then <hi>A King of the North, that shall Execute Judgment and Justice on the Earth, and give Example and Laws to the Whole World.</hi>
+               </p>
+            </div>
+            <div type="conclusion">
+               <pb n="19" facs="tcp:40822:11"/>
+               <head>THE CLOSE.</head>
+               <p>ALtho' a Man, (according to a Divine <hi>Prediction</hi>) may be thought <hi>Mad,</hi> by those that are so themselves, yet I cannot but believe, that (upon the Rising of <hi>The Christi<g ref="char:EOLhyphen"/>an Empire,</hi> God, by his <hi>Vice-Gerent</hi>) will <hi>Judge the Folk Righteously, and Govern the Nations upon Earth;</hi> and that, <hi>Then the Earth shall bring forth her Increase.</hi>
+               </p>
+               <p>And for as much as a Politick Confumption is as Necessary as <hi>The Natural Increase,</hi> I have shown in the Book it self, how the one and the other may be occasion'd.</p>
+               <p>And as I design'd it for a General Satisfacti<g ref="char:EOLhyphen"/>on, so that which doth not please one Man, may be left by him to another, who will not be <hi>Of<g ref="char:EOLhyphen"/>fended</hi> at it.</p>
+               <pb n="20" facs="tcp:40822:12"/>
+               <p> The <hi>Title Page</hi> is very Great, and <hi>The Hero<g ref="char:EOLhyphen"/>ick Vertues of The King's most Excellent Majesty,</hi> and, <hi>The Emporial Advantages of this Great Land and Nation</hi> (both which I was oblig'd to men<g ref="char:EOLhyphen"/>tion) being (in all Probability) Predestinated to Commence <hi>The Fifth Monarchy:</hi> I could not make the Book much less then it is, nor Compose it in any other Method, then that which I laid down for my Foundation.</p>
+               <p>☞<note n="*" place="bottom">I do not value my self on the Composition of it, neither indeed can I, <q>But (as Sir <hi>Thomas Brown</hi> saith) 'Tis Opportune to look back upon Old Times, and Contemplate our Fore-fathers. Great Examples grow thin, and are to be fetch'd from the past World. Simplicity flyes away, and Iniquity comes at Long-strides upon us. We have enough to do to make up our selves, from present and past Times, and the whole Stage of things scarce serveth for our In<g ref="char:EOLhyphen"/>struction. A <hi>Compleat Piece of Vertue</hi> must be made up from the <hi>Cento</hi>'s of all Ages, as all the <hi>Beauties</hi> of <hi>Greece</hi> could make but one handsome <hi>Venus.</hi>
+                     </q>
+                  </note> Whether the <hi>Book</hi> be <hi>Read</hi> or not, I do here Affirm; That by the Wayes and Means there<g ref="char:EOLhyphen"/>in mention'd, we may Commence and Main<g ref="char:EOLhyphen"/>tain <hi>The Christian Empire;</hi> That <hi>The Christian Empire</hi> (which will be Universal) cannot be Acquired, nor Maintained, by any Prince on the Continent, because it is not to be Acquired by Universal Conquest, nor Maintained by Land-Forces, as the Four past Empires were, so long as they had a being; That <hi>The Fifth
+<pb n="21" facs="tcp:40822:12"/>or Christian Empire,</hi> may be<note n="*" place="bottom">The Ʋniversal Fleet, Proposed in the First Book, will keep a Ʋniversal Peace, and make our King the <hi>Neptune</hi> of the World. But his <hi>Trydent</hi> must be the Third Reformation.</note>, both Acquired and Maintained by <hi>The English Empire of the Ocean,</hi> which <hi>Henry</hi> the Eight and Queen <hi>Eli<g ref="char:EOLhyphen"/>zabeth</hi> began, and King <hi>William</hi> may compleat; That this Head Isle of the Gentiles (which gave the Romans, the first Christian Monarch <hi>Constantine the Great</hi> and had the first Christian King <hi>Lucius</hi>) may be now made <hi>The Glorious holy Mountain,</hi> and Principal Seat of <hi>The Most Remowned Emperor,</hi> by those must Heroick means (mentioned in <hi>Britania Nova</hi>) which <hi>Moses</hi> commanded and <hi>Joshua</hi> executed, in order to gain <hi>The Land of Canaan;</hi> That <hi>The Cunning</hi>
+                  <note n="†" place="bottom">Nothing (saith my Lord <hi>Bacon</hi>) hath done the World to much Mischief, as that <hi>Cunning Men</hi> pass for <hi>Wise</hi> Men in it.</note>
+                  <hi>Wisdom of the World, is,</hi> not true Policy, but, <hi>Foolishness with God,</hi> whatever some Men may think of it; And that we (on <hi>This Emporium of the World</hi>) must <hi>first seek the Kingdom of God, and his Righteousness,</hi> be<g ref="char:EOLhyphen"/>fore we can truely serve God, by Discounte<g ref="char:EOLhyphen"/>nancing <hi>Prophaness</hi> and <hi>Immorality,</hi> and our
+<pb n="22" facs="tcp:40822:13"/>King, by Advancing the Interest and Ho<g ref="char:EOLhyphen"/>nour of <hi>This Great Land and Nation.</hi>
+               </p>
+               <p>If <hi>these things cannot be spoken against,</hi> I hope they will be put into Speedy Execu<g ref="char:EOLhyphen"/>tion, for the Benefit and Advantage of <hi>The Whole World,</hi> which I am a Well-wisher to.</p>
+               <p>But for as much as we may have some <hi>Gallio</hi>'s amongst us, <hi>That care for none of these things,</hi> I do not Address this to them, but <hi>To the King's most Excellent Majesty, To the Right Honourable the Lords Spiritual and Temporal, And to the Honourable, the Com<g ref="char:EOLhyphen"/>mons of</hi> England <hi>in Parliament Assembled,</hi> &amp;c. As they are Founded on that <hi>Religion,</hi> which <hi>hath the Promise as well of this Life, as of that which is to come.</hi>
+               </p>
+               <p>And, I hope, it will never be said in this King's Reign, as it<note n="*" place="bottom">Causes of the Decay of Christian Piety, <hi>page 316.</hi>
+                  </note> was in Anothers, <q>That <hi>Bitterness,</hi> which first Tainted <hi>the Waters of the Sanctuary,</hi> hath, from thence
+<pb n="23" facs="tcp:40822:13"/>Diffused it self into our <hi>Common Streams,</hi> and, like the <hi>Aegyptian Plague,</hi> left none Uncor<g ref="char:EOLhyphen"/>rupted.</q>
+               </p>
+               <q>
+                  <l>Ʋnder the Shades of the Nocturnal Day, being born</l>
+                  <l>In Glory and Goodness Soveraign shall shine,</l>
+                  <l>Shall cause to spring again the Blood of the Ancient Ʋrn.</l>
+                  <l>And into Gold the Brazen Age Refine.</l>
+               </q>
+               <p>Which <hi>Prophesie</hi> was Written on King <hi>Wil<g ref="char:EOLhyphen"/>liam;</hi> But no King in the World can Refine this Brazen-<hi>Age</hi> into Gold, but by that Golden-Rule in the Gospel, for <hi>seeking first the Kingdom of God and his Righteousness.</hi>
+               </p>
+               <p>And if we will begin (in Earnest) to <hi>Discou<g ref="char:EOLhyphen"/>rage Prophaness and Immorality,</hi> by these <hi>Ways</hi> and <hi>Means,</hi> we may, be those other <hi>Ways</hi> and <hi>Means</hi> herein Mention'd, and in <hi>Britania NOva,</hi> make Good the <hi>Title Page</hi> of that BOOK.</p>
+               <p>And because Doubling the Land-Tax upon Doubling the Value of our Money, and the Value and Rents of our Land, by the Ways and Means already Mention'd, is absolutely ne<g ref="char:EOLhyphen"/>cecessary for Doubling our Naval Forces, Sup<g ref="char:EOLhyphen"/>plying the Deficiency of the Fonds, and Ef<g ref="char:EOLhyphen"/>fectually Paying off the Seamen and Souldiers, <hi>&amp;c.</hi> in Specie, I do here say, That it may be easily done, and that it will be of Great
+<pb n="24" facs="tcp:40822:14"/>Benefit, both to the King and Country for the present, and of Vash Advantage to the Landed Men especially for the Future, when there will not be so great an Occasion for so great it Tax.</p>
+               <q>
+                  <l>Ʋnder his Reign the Fates decrce Increase;</l>
+                  <l>Conquest abroad, which end in happy Peace.</l>
+               </q>
+               <p>And what may not the <hi>CZAR</hi> of <hi>Musco<g ref="char:EOLhyphen"/>vy</hi> hereafter do againsts the Infidels, and to<g ref="char:EOLhyphen"/>wards the Advancement of <hi>The Coristian World,</hi> if we Protect the <hi>Greeks,</hi> and <hi>Jews</hi> from the Tyranny of the <hi>Turks,</hi> by a Sufficient Fleet in the <hi>Mediterranean,</hi> &amp;c.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>BRRATA.</head>
+            <p>Page 4. l. 7. dele <hi>Learned.</hi> After <hi>from</hi> Incert <hi>the Learned.</hi>
+            </p>
+            <p>In the <hi>Notes</hi> of the same Page, 2d Line, after Justice, r. <hi>and.</hi>
+            </p>
+            <pb facs="tcp:40822:14"/>
+         </div>
+      </back>
+   </text>
+</TEI>
